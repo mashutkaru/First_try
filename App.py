@@ -1,3 +1,4 @@
+** This is a guessing_word game. I would like to add an ability to give a player indication regarding number of letters, and in case they've guessed some letters right, and their location. **
 secret_word = "home"
 guess_word = ""
 count_try = 0
